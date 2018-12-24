@@ -1,6 +1,6 @@
 {
   "name": "grocery-graphql",
-  "version": 0.1,
+  "version": 2,
   "alias": "grocery.stephenboynton.com",
   "builds": [
     {
