@@ -1,0 +1,15 @@
+{
+  "name": "grocery-graphql",
+  "version": 0.1,
+  "alias": "grocery.stephenboynton.com",
+  "builds": [
+    {
+      "src": "lib/index.js",
+      "use": "@now/node"
+    }
+  ],
+  "env": {
+    "DATABASE_URI": "@my-database-uri",
+    "AUTH_STRING": "@my-auth-string"
+  }
+}
