@@ -1,13 +1,10 @@
 {
   "name": "grocery-graphql",
-  "version": 2,
+  "version": 1,
   "alias": "grocery.stephenboynton.com",
-  "builds": [
-    {
-      "src": "lib/index.js",
-      "use": "@now/node-server"
-    }
-  ],
+  "engines": {
+    "node": "10.12.0"
+  },
   "env": {
     "DATABASE_URI": "@my-database-uri",
     "AUTH_STRING": "@my-auth-string"
