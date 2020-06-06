@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.3.1",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "bunyan": "^1.8.12",
     "dataloader": "^1.4.0",
